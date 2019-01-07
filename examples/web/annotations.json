@@ -1,0 +1,10 @@
+[
+  {
+    "type": "line",
+    "data": {
+      "position": [{ "x": 5, "y": "0px" }, { "x": 10, "y": "100px" }],
+      "strokeWidth": "10px",
+      "strokeColor": "purple"
+    }
+  }
+]
